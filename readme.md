@@ -1,0 +1,1 @@
+## Default Django template project. Using django 3.0 as base

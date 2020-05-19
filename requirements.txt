@@ -1,0 +1,6 @@
+django>=3.*
+django-extensions
+requests
+django-background-tasks
+sh
+Werkzeug
